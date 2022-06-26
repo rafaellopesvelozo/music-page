@@ -1,0 +1,308 @@
+@media (width: 320px){
+    header{
+        display: none;
+    }
+    main{
+        width: 100%;
+        margin: 0;
+    }
+    .search, .featured p,.profile-tracks, .featured-playlists, .profile-views, .profile-view-text {
+        padding-left: 10px;
+        margin-left: 10px;
+        font-size: 16px;
+    }
+    input[type="text"]{
+        width: 250px;
+    }
+   
+    .musics{
+        margin-right: 8px;
+    }
+    .musics img{
+        width: 120px;
+        height: 90px;   
+    }
+    .name-list, .name-profile{
+        font-size: 12px;
+    }
+    .track{
+        font-size: 10px;
+    }
+    .section2{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .days-ago{
+        font-size: 10px;
+    }
+    .profile-img img{
+        margin-right: 5px;
+        height: 65px;
+        width: 50px; 
+    }
+    .number-4albums{
+        margin-right: 0;
+    }
+    .profile-views{
+        margin-bottom: 0;   
+    }
+   
+    .this-war p{
+        width: 38px;
+    }
+    .h1-track{
+        font-size: 16px;
+    }
+    .profile-tracks{
+        width: 500px;
+    }
+    
+    .tracks img{
+        width: 120px;
+        height: 90px;
+        
+    }
+    .profile-tracks{
+        margin-bottom: 30px;
+    }
+
+   
+ 
+}
+
+@media (width: 480px){
+    header{
+        display: none;
+    }
+    main{
+        width: 100%;
+        margin: 0;
+    }
+    .search, .featured p,.profile-tracks, .featured-playlists, .profile-views, .profile-view-text {
+        padding-left: 10px;
+        margin-left: 10px;
+        font-size: 16px;
+    }
+    input[type="text"]{
+        width: 250px;
+    }
+    
+    .musics{
+        margin-right: 8px;
+    }
+    .musics img{
+        width: 120px;
+        height: 90px;   
+    }
+    .name-list, .name-profile{
+        font-size: 12px;
+    }
+    .track{
+        font-size: 10px;
+    }
+    .section2{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .days-ago{
+        font-size: 10px;
+    }
+    .profile-img img{
+        margin-right: 5px;
+        height: 65px;
+        width: 50px; 
+    }
+    .number-4albums{
+        margin-right: 0;
+    }
+    .profile-views{
+        margin-bottom: 0;   
+    }
+   
+    .this-war p{
+        width: 38px;
+    }
+    .h1-track{
+        font-size: 16px;
+    }
+    .profile-tracks{
+        width: 500px;
+    }
+    
+    .tracks img{
+        width: 120px;
+        height: 90px;
+        
+    }
+    .profile-tracks{
+        margin-bottom: 30px;
+    }
+
+   
+ 
+}
+
+@media (width: 76px){
+    header{
+        display: none;
+    }
+    main{
+        width: 100%;
+        margin: 0;
+    }
+    .search, .featured p,.profile-tracks, .featured-playlists, .profile-views, .profile-view-text {
+        padding-left: 20px;
+        margin-left: 20px;
+        font-size: 16px;
+    }
+    input[type="text"]{
+        width: 300px;
+    }
+    
+    .musics{
+        margin-right: 8px;
+    }
+    .musics img{
+        width: 120px;
+        height: 90px;   
+    }
+    .name-list, .name-profile{
+        font-size: 12px;
+    }
+    .track{
+        font-size: 10px;
+    }
+    .section2{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .days-ago{
+        font-size: 10px;
+    }
+    .profile-img img{
+        margin-right: 5px;
+        height: 65px;
+        width: 50px; 
+    }
+    .number-4albums{
+        margin-right: 11px;
+    }
+    .profile-views{
+        margin-bottom: 0;   
+    }
+   
+    .this-war p{
+        width: 65px;
+    }
+    .h1-track{
+        font-size: 16px;
+    }
+    .profile-tracks{
+        width: 500px;
+    }
+    
+    .tracks img{
+        width: 120px;
+        height: 90px;
+        
+    }
+    .profile-tracks{
+        margin-bottom: 30px;
+    }
+
+   
+ 
+}
+@media (width: 1024px){
+    header{
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+    .profile{
+        margin-left: 15px;
+    }
+    .profile-info1, .profile-info2{
+        padding-left: 25px;
+    }
+    .profile-info1{
+        margin-top: 50px;
+    }
+    .ask-profile{
+        margin-left: 15px;
+    }
+    .profile-info1 p, .profile-info2 p{
+        font-size: 10px;
+    }
+    main{
+        width: 100%;
+        margin-left: 20%;
+
+    }
+    .search, .featured p,.profile-tracks, .featured-playlists, .profile-views, .profile-view-text {
+        padding-left: 20px;
+        margin-left: 20px;
+        font-size: 16px;
+    }
+    input[type="text"]{
+        width: 300px;
+    }
+    
+    .musics{
+        margin-right: 8px;
+    }
+    .musics img{
+        width: 120px;
+        height: 90px;   
+    }
+    .name-list, .name-profile{
+        font-size: 12px;
+    }
+    .track{
+        font-size: 10px;
+    }
+    .section2{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .days-ago{
+        font-size: 10px;
+    }
+    .profile-img img{
+        margin-right: 5px;
+        height: 65px;
+        width: 50px; 
+    }
+    .number-4albums{
+        margin-right: 11px;
+    }
+    .profile-views{
+        margin-bottom: 0;   
+    }
+   
+    .this-war p{
+        width: 65px;
+    }
+    .h1-track{
+        font-size: 16px;
+    }
+    .profile-tracks{
+        width: 500px;
+    }
+    
+    .tracks img{
+        width: 120px;
+        height: 90px;
+        
+    }
+    .profile-tracks{
+        margin-bottom: 30px;
+    }
+
+   
+ 
+}
